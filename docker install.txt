@@ -1,0 +1,10 @@
+enabling it in the bios is mandatory
+
+
+
+https://local.getflywheel.com/community/t/windows-help-im-getting-a-bios-error-about-vt-x-amd-v-during-installation/426
+
+
+https://www.techrepublic.com/article/how-to-install-and-use-docker-on-windows/
+
+https://docs.docker.com/docker-for-windows/install/#start-docker-for-windows
